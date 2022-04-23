@@ -22,7 +22,7 @@ Don't forget to open the console!
 
 ## Инструкция
 Всё интуитивно понятно, но при клике на компонент - в консоль выведутся значения. 
-Не забудьте открыть консоль клавишей!
+Не забудьте открыть консоль!
 
 ## Ссылка
 * [Official Github](https://github.com/mehanic321/Stationeers.Addons.Helper)
