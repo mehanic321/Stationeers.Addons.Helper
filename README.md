@@ -17,10 +17,12 @@ WARNING: This mod will not work, unless you install Stationeers.Addon mod loader
 Just subscribe to the mod on steam
 
 ## Instruction
-
+Everything is intuitive, but when you click on the component, the values will be displayed in the console.
+Don't forget to open the console with the "\" key!
 
 ## Инструкция
-
+Всё интуитивно понятно, но при клике на компонент - в консоль выведутся значения. 
+Не забудьте открыть консоль клавишей "\"!
 
 ## Ссылка
 * [Official Github](https://github.com/mehanic321/Stationeers.Addons.Helper)
