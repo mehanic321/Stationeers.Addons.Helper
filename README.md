@@ -13,7 +13,7 @@ WARNING: This mod will not work, unless you install Stationeers.Addon mod loader
 ВНИМАНИЕ: этот мод не будет работать, если вы не установите загрузчик мод Stationeers.Addon. Прочтите, как его установить здесь: https://github.com/Erdroy/Stationeers.Addons
 
 ## Установка / Installation
-Просто подпишитесь на мод в стим
+Просто подпишитесь на мод в стим<br>
 Just subscribe to the mod on steam
 
 ## Instruction
