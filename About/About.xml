@@ -12,5 +12,6 @@ Addon for viewing maximum information about game objects, components and variabl
 WARNING: This mod will not work, unless you install Stationeers.Addon mod loader.
 Read how to install it here: https://github.com/Erdroy/Stationeers.Addons
 </Description>
+  <WorkshopHandle>2798686984</WorkshopHandle>
   <Tags />
 </ModMetadata>

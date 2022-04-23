@@ -26,6 +26,7 @@ Don't forget to open the console!
 
 ## Ссылка
 * [Official Github](https://github.com/mehanic321/Stationeers.Addons.Helper)
+* [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2798686984)
 
 ## Лицензия
 MIT
